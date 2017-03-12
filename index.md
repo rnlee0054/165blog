@@ -2,12 +2,11 @@
 _03/12/17_
 
 ## Project name
-Puzzles + no memes
+Puzzles Sans-Memes
+
 ![SCREENSHOT IMAGE + DESCRIPTION HERE](http://rnlee.io/favicon.ico)
 ## Contributors
-Rachel Lee [@rnlee0054](github.com/rnlee0054)
-
-Brady Shi [@shibrady](github.com/shibrady)
+Rachel Lee [@rnlee0054](github.com/rnlee0054) & Brady Shi [@shibrady](github.com/shibrady)
 ## Description
 The short virtual reality game immerses the user in a mysterious environment with many puzzles. The goal is to find the exit!
 
