@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Initial Idea and Work
+_03/12/17_
 
-You can use the [editor on GitHub](https://github.com/rnlee0054/165blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Project name
+Puzzles + no memes
+![SCREENSHOT IMAGE + DESCRIPTION HERE](http://rnlee.io/favicon.ico)
+## Contributors
+Rachel Lee [@rnlee0054](github.com/rnlee0054)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Brady Shi [@shibrady](github.com/shibrady)
+## Description
+The short virtual reality game immerses the user in a mysterious environment with many puzzles. The goal is to find the exit!
 
-### Markdown
+## Technical features
+- Selection: virtual hand/cursor
+- Manipulation
+- Wayfinding
+- Travel
+- System control
+- Audio
+- Quaternion math
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rnlee0054/165blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Creative efforts
+Our efforts are focused on making interesting puzzles/levels with good visuals and usability. The goal is to make a minimalistic/simple game while keeping it interesting and fresh.
