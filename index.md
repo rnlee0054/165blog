@@ -1,6 +1,3 @@
----
-title: Puzzles Sans-Memes
----
 # Initial Idea and Work
 _03/12/17_
 
