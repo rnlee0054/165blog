@@ -4,7 +4,7 @@ _03/12/17_
 ## Project name
 Puzzles Sans-Memes
 
-![SCREENSHOT IMAGE + DESCRIPTION HERE](http://rnlee.io/favicon.ico)
+![Current game is grassy](https://scontent-lax3-2.xx.fbcdn.net/v/t35.0-12/17269969_1812655022284504_1745578501_o.png?oh=779c436e73f18f689458c6c179e81641&oe=58C809F4)
 ## Contributors
 Rachel Lee [@rnlee0054](github.com/rnlee0054) & Brady Shi [@shibrady](github.com/shibrady)
 ## Description
