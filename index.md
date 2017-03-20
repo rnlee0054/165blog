@@ -1,10 +1,34 @@
+# Update!
+_03/19/17_
+
+## We renamed the project...
+For now it is called *Puzzle Simulator*.
+
+## We refined our concepts...
+Instead of wayfinding, we will create a simple symbolic input using a numpad on a passcoded door. We also researched and planned many puzzles to implement that would be interesting.
+
+The premise of the game is to escape the dream or world. The game will use Oculus Touch controllers instead of Leap Motion, and travel (player movement) is implemented using alternating trigger presses (left-right-left-right-...). The art style is low-poly.
+
+There is minimal user tutorial/on-boarding. Part of the fun of the game is figuring out the extent of how to play. At the same time, each controller is limited to two buttons (the palm trigger and index trigger), so the user's input is extremely limited and simple. Some "puzzles" will include:
+- Learning how to walk/run optimally
+- Climbing a ladder
+- Selection and unlocking doors
+- Matching symbols
+
+Screenshots of progress
+User movement up and down hills in our terrain prototype. The complete terrain should be low-poly as well.
+
+![Hills and terrain precursors without low-poly code!](https://raw.githubusercontent.com/rnlee0054/165blog/master/images/1.png)
+![Hills and terrain precursors without low-poly code!](https://raw.githubusercontent.com/rnlee0054/165blog/master/images/2.png)
+------
 # Initial Idea and Work
 _03/12/17_
 
 ## Project name
 Puzzles Sans-Memes
 
-![Current game is grassy](https://scontent-lax3-2.xx.fbcdn.net/v/t35.0-12/17269969_1812655022284504_1745578501_o.png?oh=779c436e73f18f689458c6c179e81641&oe=58C809F4)
+![Grassy game](https://raw.githubusercontent.com/rnlee0054/165blog/master/images/17269969_1812655022284504_1745578501_o.png)
+
 ## Contributors
 Rachel Lee [@rnlee0054](github.com/rnlee0054) & Brady Shi [@shibrady](github.com/shibrady)
 ## Description
