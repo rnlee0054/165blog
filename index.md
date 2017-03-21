@@ -4,8 +4,8 @@ _03/21/2017_
 ## We renamed the project (again)...
 It's called CSE165 Final!
 
-## We basically implemented everything we talked about!
-# Halfheartedly
+# We basically implemented everything we talked about!
+#### Halfheartedly
 
 See? We even have a video for it!
 
